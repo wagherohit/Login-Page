@@ -1,0 +1,82 @@
+body{
+    background-image:url(https://img.freepik.com/free-photo/purple-mountain-landscape_1048-10720.jpg?t=st=1719924861~exp=1719928461~hmac=c216fa610c19511343ba5970b76667d21e82e78efe4651e0e38f742d6686721b&w=900);
+   
+}
+.login{
+    text-align: center;
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border: none;
+    gap: 20px;
+    height: 450px;
+    width: 500px;
+    background: transparent;
+    box-shadow: rgba(0, 0, 0, 0.07) 0px 1px 2px, rgba(0, 0, 0, 0.07) 0px 2px 4px, rgba(0, 0, 0, 0.07) 0px 4px 8px, rgba(0, 0, 0, 0.07) 0px 8px 16px, rgba(0, 0, 0, 0.07) 0px 16px 32px, rgba(0, 0, 0, 0.07) 0px 32px 64px;
+}
+.login{
+    position: relative;
+    left: 500px;
+    margin-top: 60px;
+    backdrop-filter: blur(20px);
+}
+
+form{
+    position: relative;
+    right: 30px;
+}
+.email{
+    margin-bottom: 20px;
+    margin-left: 70px;
+    border: none;
+    
+
+}
+.email input{
+    border: 1px solid white;
+    background: transparent;
+}
+.login input{
+    padding: 10px;
+    border-radius: 10rem;
+    
+}
+.password{
+    border: none;
+    margin-top: 20px;
+
+}
+.password input{
+    border: 1px solid white;
+    background: transparent;
+ 
+}
+.forget-pass{
+    margin-top: 25px;
+}
+.forget-pass a{
+    text-decoration: none;
+    color: rgb(38, 86, 148);
+}
+.sign-in{
+    margin-top: 20px;
+    border: none;
+}
+.sign-in button{
+    border: none;
+    padding-left: 10px;
+    padding-top: 5px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+    border-radius: 10rem;
+    font-size: 20px;
+    color: rgb(1, 6, 10);
+     box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;;
+
+}
+.signup{
+    margin-top: 20px;
+}
+.signup a{
+    text-decoration: none;
+    color: rgb(38, 86, 148);
+}
